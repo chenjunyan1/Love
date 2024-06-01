@@ -1,6 +1,5 @@
 # LOVE 恋爱小记
 
-GitHub 开源：
 
 前端：https://github.com/wonderland-Love/Love_React
 
